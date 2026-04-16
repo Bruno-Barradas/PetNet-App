@@ -1,6 +1,8 @@
 # PetNet App
 
 ## Overview
+![PetNet Cover](images/cover.png)
+
 PetNet is a mobile application designed to connect pet owners in a more interactive and community-driven environment.
 
 The app brings together social interaction, content sharing, engagement features, donation-related experiences, and pet-centered digital services in a single platform.
