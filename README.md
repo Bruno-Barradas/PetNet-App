@@ -62,3 +62,9 @@ I worked on the development and evolution of the app, focusing on:
 
 ## Notes
 This repository is a portfolio overview of the project and does not include the private source code.
+
+## App Screenshots
+
+![Screen 1](images/tela-adocao.png)
+![Screen 2](images/tela-feed.png)
+![Screen 3](images/tela-vaquinha.png)
