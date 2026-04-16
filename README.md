@@ -70,3 +70,9 @@ This repository is a portfolio overview of the project and does not include the 
   <img src="images/tela-feed.png" width="250"/>
   <img src="images/tela-vaquinha.png" width="250"/>
 </p>
+
+## Download App
+
+You can download and test the Android version below:
+
+[Download PetNet APK](https://github.com/Bruno-Barradas/PetNet-App/releases/download/v1.0/app-release.apk)
