@@ -65,6 +65,8 @@ This repository is a portfolio overview of the project and does not include the 
 
 ## App Screenshots
 
-![Screen 1](images/tela-adocao.png)
-![Screen 2](images/tela-feed.png)
-![Screen 3](images/tela-vaquinha.png)
+<p align="center">
+  <img src="images/tela-adocao.png" width="250"/>
+  <img src="images/tela-feed.png" width="250"/>
+  <img src="images/tela-vaquinha.png" width="250"/>
+</p>
