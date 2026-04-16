@@ -75,4 +75,4 @@ This repository is a portfolio overview of the project and does not include the 
 
 You can download and test the Android version below:
 
-[[Download PetNet APK](https://github.com/Bruno-Barradas/PetNet-App/releases/download/V1.0/app-release.apk)
+[Download PetNet APK](https://github.com/Bruno-Barradas/PetNet-App/releases/download/V1.0/app-release.apk)
